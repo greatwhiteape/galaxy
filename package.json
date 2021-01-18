@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/greatwhiteape/galaxy/issues"
   },
-  "homepage": "https://github.com/greatwhiteape/galaxy#readme"
+  "homepage": "https://github.com/greatwhiteape/galaxy#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "seneca": "^3.23.2",
+    "seneca-basic": "^1.0.0",
+    "seneca-entity": "^12.0.0"
+  }
 }
